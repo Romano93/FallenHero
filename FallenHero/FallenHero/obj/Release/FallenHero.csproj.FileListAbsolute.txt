@@ -1,0 +1,10 @@
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.Form1.resources
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.Properties.Resources.resources
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.csproj.GenerateResource.cache
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.csproj.CoreCompileInputs.cache
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Release\FallenHero.exe.config
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Release\FallenHero.exe
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Release\FallenHero.pdb
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.exe
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.pdb
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Release\FallenHero.csprojAssemblyReference.cache

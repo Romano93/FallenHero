@@ -1,0 +1,11 @@
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Debug\FallenHero.exe.config
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Debug\FallenHero.exe
+E:\Programming\ExternalC#\FallenHero\FallenHero\bin\Debug\FallenHero.pdb
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.Form1.resources
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.Properties.Resources.resources
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.csproj.GenerateResource.cache
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.csproj.CoreCompileInputs.cache
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.exe
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.pdb
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.csprojAssemblyReference.cache
+E:\Programming\ExternalC#\FallenHero\FallenHero\obj\Debug\FallenHero.FormOverlay.resources
