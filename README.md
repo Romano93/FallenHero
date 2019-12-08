@@ -1,6 +1,6 @@
 # FallenHero
 ## this is my external CS:GO-Cheat
-!It's not working as it is!
+It's not working as it is!
 the offsets have to be updated and the external overlay is not working.
 
 ###Working features:
