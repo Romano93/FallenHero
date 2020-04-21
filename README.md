@@ -8,5 +8,5 @@ the offsets have to be updated and the external overlay is not working.
 - Skinchanger (lagging while spawning)
 - Config save/load
 
-## I'm not cheating in CS:GO anymore, so here you have it
-# Use at OWN risk! As soon as I uploaded it, you can see this as detected.
+I'm not cheating in CS:GO anymore, so here you have it
+Use at OWN risk! As soon as I uploaded it, you can see this as detected.
